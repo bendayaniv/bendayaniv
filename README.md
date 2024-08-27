@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![image](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=c&logoColor=darkblue&color=grey)
-![image](https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=js&logoColor=darkblue&color=grey)
-![image](https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=ts&logoColor=darkblue&color=grey)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ## Tools
