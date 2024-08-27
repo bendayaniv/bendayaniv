@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Yaniv Ben David - Software Engineer
 
-[![image](https://img.shields.io/badge/LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=blue&color=white)]([https://www.linkedin.com/in/yaniv-ben-david-22ybd/](https://www.linkedin.com/in/yaniv-ben-david-22ybd/))
+<a href="https://www.linkedin.com/in/bendayaniv" target="blank"><img align="center" src="https://img.shields.io/badge/bendayaniv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:bendayaniv@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bendayaniv-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;  
 [![image](https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=white&color=black)]() 
 [![image](https://img.shields.io/badge/Email-FFD43B?style=for-the-badge&logo=gmail&logoColor=white&color=red)](bendayaniv@gmail.com)
 
