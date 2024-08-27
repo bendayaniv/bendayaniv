@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 # Yaniv Ben David - Software Engineer
 
-<a href="https://www.linkedin.com/in/bendayaniv" target="blank"><img align="center" src="https://img.shields.io/badge/Yaniv Ben David-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:bendayaniv@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Yaniv Ben David-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;  
-[![image](https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=white&color=black)]() 
+<a href="https://www.linkedin.com/in/bendayaniv" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:bendayaniv@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;  
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bendayaniv&theme=github_dark)
 
