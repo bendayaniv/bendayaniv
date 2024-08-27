@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Android-FFD43B?style=for-the-badge&logo=android&logoColor=white&color=green)
 ![image](https://img.shields.io/badge/iOS-FFD43B?style=for-the-badge&logo=ios&logoColor=white&color=orange)
 ![image](https://img.shields.io/badge/Spring-FFD43B?style=for-the-badge&logo=spring&logoColor=white&color=green)
-![image](https://img.shields.io/badge/Spring-FFD43B?style=for-the-badge&logo=css&logoColor=white&color=green)
-![image](https://img.shields.io/badge/Spring-FFD43B?style=for-the-badge&logo=react&logoColor=white&color=green)
-![image](https://img.shields.io/badge/Spring-FFD43B?style=for-the-badge&logo=node.js&logoColor=white&color=green)
+![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Technologies
 <!-- git, firebase, mysql, sqlite, mongodb -->
